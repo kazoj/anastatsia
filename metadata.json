@@ -1,0 +1,7 @@
+{
+  "name": "Anastasia Immobilier Redesign",
+  "description": "A luxury real estate landing page featuring AI-powered market insights and property narration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
